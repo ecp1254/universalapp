@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>750852793934-u76u8ie93ma0qtmoci6n9tlnoe4mdl7a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.750852793934-u76u8ie93ma0qtmoci6n9tlnoe4mdl7a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrQxqJru0qlT7_nxZsKWA0n55UIP-nVOg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>750852793934</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.onePayment</string>
+	<key>PROJECT_ID</key>
+	<string>universal-app-6bf57</string>
+	<key>STORAGE_BUCKET</key>
+	<string>universal-app-6bf57.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:750852793934:ios:dac263680b4c8e79e3051f</string>
+</dict>
+</plist>

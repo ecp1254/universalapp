@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "750852793934",
+    "project_id": "universal-app-6bf57",
+    "storage_bucket": "universal-app-6bf57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750852793934:android:685bc937f94724f0e3051f",
+        "android_client_info": {
+          "package_name": "com.example.one_payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750852793934-0ut20r93b1ukdeuupfkoid0l50qjb940.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySO1Ek4BJHLRFTG3Gv6WvKIM9xZSZ5Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750852793934-0ut20r93b1ukdeuupfkoid0l50qjb940.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750852793934-u76u8ie93ma0qtmoci6n9tlnoe4mdl7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onePayment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
